@@ -1,0 +1,28 @@
+{
+  "data": {
+    "PriorityCode": "Low",
+    "Description": "User cannot Access Calendar within Application",
+    "Detailed Description": "Specifiy URL to webpage: .... Remoted into workstation, blah blah..",
+    "First_Name": "Jeremy",
+    "Last_Name": "Smith",
+    "Department": "Dept #1",
+    "StatusCode": "Assigned",
+    "Assigned_Group": "Web Application",
+    "WorkLog": [
+      {
+        "Work_Log_ID": "WLG0000066527015",
+        "Work_Log_Submitter": "J. Jim",
+        "Work_Log_Submit_Date": "1639606622",
+        "Detailed_Description": "This is log Entry #1"
+      },
+      {
+        "Work_Log_ID": "WLG0000066527016",
+        "Work_Log_Submitter": "J. Jim",
+        "Work_Log_Submit_Date": "1649606622",
+        "Detailed_Description": "This is log Entry #2"
+      }
+    ]
+  },
+  "message": "The incident has been retrieved successfully.",
+  "status": "Success"
+}

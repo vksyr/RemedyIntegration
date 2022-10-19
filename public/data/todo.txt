@@ -1,0 +1,5 @@
+1.convert x.json to ashx method
+2. "New" Icon
+3. Save presets
+4. Auto-refresh
+5. Search

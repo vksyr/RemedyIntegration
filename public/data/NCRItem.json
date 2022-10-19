@@ -1,0 +1,30 @@
+{
+  "data": {
+    "Site_Group": "Site 1-A",
+    "bmc_Security_Classification": "Classification #1",
+    "Change_Request_Status": "Pending",
+    "Description": "User cannot Access Calendar within Application",
+    "Detailed_Description": "This is the detailed description... ...",
+    "ChangeCoordinatorGroup": "Mr. Smith / Change Group",
+    "Submitter": "Mr. Smith / ABC",
+    "Approved": "No",
+    "Created": "7/7/2020 by Mr.Smith",
+    "Modified": "7/7/2020 by Mr.Smith",
+    "WorkLog": [
+      {
+        "Work_Log_ID": "WLG0000066527015",
+        "Work_Log_Submitter": "J. Jim",
+        "Work_Log_Submit_Date": "1639606622",
+        "Detailed_Description": "This is log Entry #1"
+      },
+      {
+        "Work_Log_ID": "WLG0000066527016",
+        "Work_Log_Submitter": "J. Jim",
+        "Work_Log_Submit_Date": "1649606622",
+        "Detailed_Description": "This is log Entry #2"
+      }
+    ]
+  },
+  "message": "The NCR item has been retrieved successfully.",
+  "status": "Success"
+}

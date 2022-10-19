@@ -1,0 +1,9 @@
+{
+  "data": [
+    { "label": "Service A", "value": "Service A" },
+    { "label": "Service B", "value": "Service B" },
+    { "label": "Service C", "value": "Service C" }
+  ],
+  "message": "The services have been retrieved successfully.",
+  "status": "Success"
+}

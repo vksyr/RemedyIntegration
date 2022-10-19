@@ -1,0 +1,126 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.navbar {
+  background-color: #000;
+}
+
+.navbar a {
+  color: #fff;
+}
+
+.filter-container {
+  background-color: #efefef;
+  padding: 6px 13px;
+}
+
+label {
+  padding-right: 4px;
+}
+
+.label-nowrap {
+  white-space: nowrap;
+}
+
+.age-kpi-btn-active:hover,
+.age-kpi-btn-selected {
+  cursor: pointer;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  margin: -1px;
+  margin-left: -5px;
+  padding-left: 4px;
+}
+
+.age-kpi-btn-selected {
+  position: relative;
+}
+
+.age-kpi-options-disabled {
+  display: none;
+}
+
+.age-kpi-options-enabled {
+  position: absolute;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  width: 400px;
+  height: 200px;
+  padding: 7px;
+  cursor: auto;
+  top: 25px;
+  left: 0px;
+  z-index: 1001;
+}
+
+.age-kpi-options-enabled input[type="text"] {
+  width: 60px;
+}
+
+.close-icon {
+  position: absolute;
+  right: 4px;
+  top: 2px;
+  color: #999;
+}
+
+.close-icon:hover {
+  cursor: pointer;
+  color: #666;
+}
+
+.footer {
+  position: absolute;
+  right: 3px;
+  bottom: 3px;
+  color: #666;
+  font-size: 14px;
+}
+
+.detail-field {
+  padding: 2px;
+}
+
+.worklog-header {
+  padding-top: 1px;
+}
+
+.worklog-body {
+  padding-bottom: 2px;
+}
+
+.companySel {
+  width: 140px;
+}
+
+.groupSel,
+.servicesSel {
+  width: 320px;
+}
+
+.loading-shading-mui {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.loading-icon-mui {
+  position: absolute;
+  font-size: 20px;
+  top: calc(45% - 10px);
+  left: calc(50% - 10px);
+}
+
+.rem-footer {
+  font-size: 0.75rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  margin-left: 24px;
+  position: relative;
+  top: -51px;
+}

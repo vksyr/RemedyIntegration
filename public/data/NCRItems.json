@@ -1,0 +1,75 @@
+{
+  "totalCount": 2,
+  "data": [
+    {
+      "Site": "Site 1",
+      "Infrastructure_Change_ID": "CRQ0000007837616",
+      "Description": "User cannot Access Calendar within Application",
+      "Change_Request_Status": "Pending",
+      "Current_Update": "This ticket was created from the service request system.",
+      "Approved": "No",
+      "ASCHG": "Smith, James A",
+      "Work_Log_Submitter": "J. Jim",
+      "Submit_Date": "1639606622",
+      "Last_Modified_Date": "1639606622",
+      "Last_Modified_By": "test.user",
+      "Site_Group": "Site 1-A",
+      "bmc_Security_Classification": "Classification #1",
+      "Detailed_Descrition": "This is the detailed description... ...",
+      "ChangeCoordinatorGroup": "Mr. Smith / Change Group",
+      "Submitter": "Mr. Smith / ABC",
+      "Created": "7/7/2020 by Mr.Smith",
+      "Modified": "7/7/2020 by Mr.Smith",
+      "WorkLog": [
+        {
+          "Work_Log_ID": "WLG0000066527015",
+          "Work_Log_Submitter": "J. Jim",
+          "Work_Log_Submit_Date": "1639606622",
+          "Detailed_Description": "This is log Entry #1"
+        },
+        {
+          "Work_Log_ID": "WLG0000066527016",
+          "Work_Log_Submitter": "J. Jim",
+          "Work_Log_Submit_Date": "1649606622",
+          "Detailed_Description": "This is log Entry #2"
+        }
+      ]
+    },
+    {
+      "Site": "Site 1",
+      "Infrastructure_Change_ID": "CRQ0000007837616",
+      "Description": "User cannot Access Calendar within Application",
+      "Change_Request_Status": "Pending",
+      "Current_Update": "This ticket was created from the service request system.",
+      "Approved": "No",
+      "ASCHG": "Smith, James A",
+      "Work_Log_Submitter": "J. Jim",
+      "Submit_Date": "1639606622",
+      "Last_Modified_Date": "1639606622",
+      "Last_Modified_By": "test.user",
+      "Site_Group": "Site 1-A",
+      "bmc_Security_Classification": "Classification #1",
+      "Detailed_Descrition": "This is the detailed description... ...",
+      "ChangeCoordinatorGroup": "Mr. Smith / Change Group",
+      "Submitter": "Mr. Smith / ABC",
+      "Created": "7/7/2020 by Mr.Smith",
+      "Modified": "7/7/2020 by Mr.Smith",
+      "WorkLog": [
+        {
+          "Work_Log_ID": "WLG0000066527015",
+          "Work_Log_Submitter": "J. Jim",
+          "Work_Log_Submit_Date": "1639606622",
+          "Detailed_Description": "This is log Entry #1"
+        },
+        {
+          "Work_Log_ID": "WLG0000066527016",
+          "Work_Log_Submitter": "J. Jim",
+          "Work_Log_Submit_Date": "1649606622",
+          "Detailed_Description": "This is log Entry #2"
+        }
+      ]
+    }
+  ],
+  "message": "The NCR item has been retrieved successfully.",
+  "status": "Success"
+}

@@ -1,0 +1,8 @@
+{
+  "data": [
+    { "label": "Site 1", "value": "Site 1" },
+    { "label": "Site 2", "value": "Site 2" }
+  ],
+  "message": "The sites have been retrieved successfully.",
+  "status": "Success"
+}

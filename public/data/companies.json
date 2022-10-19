@@ -1,0 +1,9 @@
+{
+  "data": [
+    { "label": "Company A", "value": "Company A" },
+    { "label": "Company B", "value": "Company B" },
+    { "label": "Company C", "value": "Company C" }
+  ],
+  "message": "The companies have been retrieved successfully.",
+  "status": "Success"
+}

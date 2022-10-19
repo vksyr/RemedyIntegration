@@ -1,0 +1,9 @@
+{
+  "data": [
+    { "label": "Low", "value": "0" },
+    { "label": "Medium", "value": "1" },
+    { "label": "High", "value": "2" }
+  ],
+  "message": "The priorities have been retrieved successfully.",
+  "status": "Success"
+}
