@@ -2,6 +2,7 @@
   "name": "react",
   "version": "1.0.0",
   "description": "React example starter project",
+  "homepage": "/remedy",
   "keywords": [
     "react",
     "starter"
@@ -17,15 +18,13 @@
     "@mui/icons-material": "5.4.2",
     "@mui/material": "5.4.2",
     "bootstrap": "5.1.3",
-    "bootstrap-react": "0.5.0-alpha.14",
     "lodash": "4.17.21",
     "moment": "2.29.3",
-    "react": "18.1.0",
+    "react": "17.0.2",
     "react-bootstrap": "2.4.0",
-    "react-dom": "18.1.0",
+    "react-dom": "17.0.2",
     "react-router-dom": "6.3.0",
-    "react-script": "2.0.5",
-    "react-scripts": "4.0.0",
+    "react-scripts": "^5.0.0",
     "react-select": "5.2.2",
     "react-toast-notifications": "2.5.1",
     "style.css": "1.0.3"
